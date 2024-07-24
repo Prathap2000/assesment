@@ -1,0 +1,58 @@
+.main{
+    background: #000;
+}
+.line{
+    background-color: #ffffff;
+}
+.reachinbox_logo{
+    height: 30px;
+    background: #000;
+}
+#box_logo{
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    background-color: #000;
+    align-items: center;
+}
+.login_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 700px;
+
+}
+.login_box_1{
+    background: #3d3939;
+    width: 450px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 15px;
+    text-align: center;
+
+}
+.login_box_1 h4 {
+    padding-top: 20px;
+    color: #ffffff;
+}
+.btn_google{
+    width: 80%;
+    color:wheat;
+    height: 20%;
+    margin-top: 20px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: #3d3939;
+}
+.create_ac{
+    width: 50%;
+    height: 20%;
+    margin-top: 40px;
+    background-color: blue;
+    border-radius: 8px;
+}
+.sign_in{
+    margin-top: 40px ;
+    color: gainsboro;
+    background-color: transparent;
+}
