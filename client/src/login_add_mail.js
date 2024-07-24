@@ -12,15 +12,16 @@ export default function Login_add_mail() {
         <img src={logo} alt="abc" className='reachinbox_logo' ></img>
       </div>
       <hr className='line' />
-      <div className='login_box d-flex align-items-center just'>
+      <div className='login_box '>
         <div className=' login_box_1'>
         <h4>Create a new account</h4>
         <button className='btn_google'>Sign Up with Google</button><br/>
         <button className='create_ac'>Create an Account</button>
         <p className='sign_in'>Already have an account? <b>Sign In</b></p>
-        </div>
-
-
+        </div> 
+      </div>
+      <div className='d-flex justify-content-center bg-dark'>
+        <p className='color-white'>@copy 2023 Reachinbox. All rights reserved </p>
       </div>
     </div>
 
